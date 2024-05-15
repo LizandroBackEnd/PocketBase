@@ -113,7 +113,7 @@ API details
 /api/collections/products/records/:id
 ```    
  
-- Create (products) `get`   
+- Create (products) `post`   
  
 Create a new products record. <br> 
 Body parameters could be sent as `application/json` or `multipart/form-data`. <br>
